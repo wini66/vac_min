@@ -1,0 +1,20 @@
+body{
+    background-color: #ffffff;
+}
+h1{
+    color: rgb(175, 23, 101);
+}
+h2{
+    color: rgb(175, 23, 101);
+}
+.cc{
+    font-weight: bold;
+}
+img{
+    width: 500;
+    height: 400;
+}
+li{
+    font-weight: bold;
+    font-size: 18px;
+}
